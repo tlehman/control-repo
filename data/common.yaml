@@ -1,2 +1,3 @@
 ---
 message: "This node is using common data"
+profile::bar::buzz: "Original content for Bar\n"
